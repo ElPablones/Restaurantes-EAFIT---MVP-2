@@ -13,20 +13,6 @@
 > - Borra estos bloques de instrucciones (las líneas que empiezan con `>`) y la entrada de ejemplo cuando empieces.
 
 ---
-
-## Entrada de ejemplo (bórrala: es ficticia y solo muestra el nivel de detalle esperado)
-
-### 2026-10-15 · Ana
-
-- **Objetivo del cambio:** crear la página "Cronograma" a partir de la página modelo.  
-- **Prompt clave:** "Construye paginas/cronograma.html igual que paginas/modelo.html. Contenido exacto: \[textos del cronograma\]. Reutiliza css/estilos.css. Lo que falte lo marcas 'Disponible próximamente'."  
-- **Qué produjo la IA:** la página con la estructura correcta, pero agregó una sección "Preguntas frecuentes" que no pedimos.  
-- **Decisión del equipo:** ajustado. Se eliminó la sección de preguntas frecuentes porque no hay contenido real ni historia de usuario que la respalde. Se aceptó el resto.  
-- **Evidencia que lo sustenta:** hallazgo 2 (los estudiantes buscan primero qué sesión toca cada semana) → historia H3: "Como estudiante, quiero ver el cronograma en dos clics".  
-- **Archivos modificados:** paginas/cronograma.html, index.html (enlace en el menú).  
-- **Commit:** "Cronograma: página nueva desde el modelo".  
-- **Verificación:** revisada en el navegador (computador y 375 px), sin errores en consola; criterio de aceptación de H3 cumplido (dos clics desde inicio).
-
 ---
 
 ## Plantilla de entrada (copia y pega una nueva por cada cambio importante)
