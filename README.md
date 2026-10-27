@@ -12,7 +12,7 @@
 
 ---
 
-\[Descripción del proyecto en una sola frase.\]
+\[App para pedir en los restaurantes de la Universidad de EAFIT\]
 
 **Sitio publicado:** \[https\://tugui142.github.io/eafit-pedidos-mvp-HTML/index.html\] **Repositorio:** \[https\://github.com/Tugui142/eafit-pedidos-mvp-HTML\] **Equipo:** \[Juan Pablo Gutiérrez Quintero — rol\], \[Verónica Mejia — rol\], \[Alejandra Fonseca — rol\] **Curso:** Experiencia de Usuario (CS0278) · \[2026-II\] · Universidad EAFIT **Docente:** \[Luis Alejandro Cardenas Franco\]
 
