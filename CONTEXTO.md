@@ -41,7 +41,7 @@ Reducir la congestión y los tiempos de espera en los restaurantes del campus de
 
 ## 7. Sistema visual
 - **Hoja de estilos:** `style.css` (Manejo centralizado de UI y colores).
-- **Enfoque:** Diseño responsivo (Mobile First), ya que el celular es el canal principal.
+- **Enfoque:** Diseño responsivo (Mobile First), ya que el celular es el canal principal. El panel para los restaurantes se puede ver en una pantalla horizontal.
 
 ## 8. Reglas para la IA
 1. Usa los textos exactos que se te entregan. No inventes datos.
