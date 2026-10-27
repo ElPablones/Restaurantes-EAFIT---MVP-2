@@ -46,7 +46,7 @@ Es una solución digital integral diseñada para mitigar la congestión y las la
 
 > Para que cualquiera del equipo pueda volver a publicar sin ti.
 
-- Servicio: \[GitHub Pages / Netlify / Cloudflare Pages / hosting contratado\]  
+- Servicio: \[GitHub Pages\]  
 - Pasos: \[por ejemplo: hacer commit, subir a la rama `main`, el servicio publica automáticamente / subir los archivos con el administrador de archivos\]  
 - Importante: subir siempre juntos el CSS y todas las páginas modificadas.  
 - Administra la cuenta: \[nombre\]
@@ -55,7 +55,7 @@ Es una solución digital integral diseñada para mitigar la congestión y las la
 
 > Qué se mide, con qué herramienta y dónde se ven los datos. Menciona el aviso de consentimiento.
 
-- Herramienta: \[Microsoft Clarity / Google Analytics 4 / otra\]  
+- Herramienta: \[Google Analytics 4]  
 - Eventos medidos: \[lista del plan de medición\]  
 - Dónde ver los datos: \[nombre de la cuenta o panel; sin claves\]  
 - Fecha de activación: \[AAAA-MM-DD\]  
