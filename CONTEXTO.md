@@ -25,19 +25,19 @@ Reducir la congestión y los tiempos de espera en los restaurantes del campus de
 - **Referente Visual (Benchmark):** Rappi (visualización de categorías, carrito flexible, pasarela integrada).
 
 ## 6. Estructura del sitio
--**restaurantes/nombrederestaurante.html**
--**ajustes.html.**
--**catalogo.html.**
--**dashboard.html.**
--**historial.html.**
--**index.html.**
--**main.py.**
--**pago.html.**
--**producto.html.**
--**requirements.txt.**
--**restaurantes.html.**
--**seguimiento.html.**
--**style.css.**
+- **restaurantes/nombrederestaurante.html**
+- **ajustes.html**
+- **catalogo.html**
+- **dashboard.html**
+- **historial.html**
+- **index.html**
+- **main.py**
+- **pago.html**
+- **producto.html**
+- **requirements.txt**
+- **restaurantes.html**
+- **seguimiento.html**
+- **style.css**
 
 ## 7. Sistema visual
 - **Hoja de estilos:** `style.css` (Manejo centralizado de UI y colores).
