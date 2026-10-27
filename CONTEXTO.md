@@ -23,9 +23,7 @@
 ## 2\. Usuarios y tareas principales
 
 > Una línea por tipo de usuario: quién es y qué necesita hacer en el sitio. Salen de tu investigación, no de suposiciones.
-
-- **\[Tipo de usuario 1\]:** necesita \[tarea\].  
-- **\[Tipo de usuario 2\]:** necesita \[tarea\].  
+  
 - Usuarios principales (Estudiantes/Profesores/Empleados): necesitan realizar pedidos anticipados para recoger o recibir a domicilio, optimizando sus tiempos de descanso.  
 - Restaurantes aliados: necesitan gestionar pedidos digitales de forma eficiente para evitar el colapso de la atención presencial.  
 - Emprendedores estudiantes: necesitan una vitrina comercial y un canal logístico para gestionar su stock diario y expandir sus ventas en el campus.  
